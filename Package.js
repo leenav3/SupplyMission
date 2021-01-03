@@ -18,9 +18,7 @@ class Package{
     display(){
     var pos=this.body.position;
     var angle=this.body.angle;
-    console.log(angle);
-   // pos.x=mouseX;
-   // pos.y=mouseY;
+
    
     push ();
     imageMode (CENTER);
